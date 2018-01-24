@@ -1,4 +1,4 @@
-# live.m3u
+#live.m3u
 #EXTM3U
 #EXTINF:-1,TOP CHANNEL HD
 http://tv.smartal.net:25461/live/zMSlsgADLs/b8DeSkbcc0/1073.ts
